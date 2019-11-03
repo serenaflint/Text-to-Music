@@ -1,0 +1,23 @@
+Movement 0 type promo NumSections 4 Mood popfunk
+SectionNum 0 NumPhrases 6 NumChords 3 tempo 117 tse 4/4 startMNum 1
+PhraseNum 0 StartClk 0 EndClk 7680 Density 6 Layers ['drumsKit','rightPiano2','hiStrings','mel5','bass2','midStrings','notationLP','notationRP']
+PhraseNum 1 StartClk 7680 EndClk 15360 Density 7 Layers ['drumsKit','rightPiano2','hiStrings','mel5','bass2','midStrings','rightPiano','notationLP','notationRP']
+PhraseNum 2 StartClk 15360 EndClk 23040 Density 7 Layers ['drumsKit','rightPiano2','hiStrings','mel5','bass2','midStrings','rightPiano','notationLP','notationRP']
+PhraseNum 3 StartClk 23040 EndClk 30720 Density 7 Layers ['drumsKit','rightPiano2','hiStrings','mel5','bass2','midStrings','rightPiano','notationLP','notationRP']
+PhraseNum 4 StartClk 30720 EndClk 38400 Density 7 Layers ['drumsKit','rightPiano2','hiStrings','mel5','bass2','midStrings','rightPiano','notationLP','notationRP']
+PhraseNum 5 StartClk 38400 EndClk 42240 Density 7 Layers ['drumsKit','rightPiano2','hiStrings','mel5','bass2','midStrings','rightPiano','notationLP','notationRP']
+SectionLayers ['drumsKit','rightPiano2','hiStrings','mel5','bass2','midStrings','rightPiano','notationLP','notationRP']
+SectionNum 1 NumPhrases 3 NumChords 3 tempo 115 tse 4/4 startMNum 23
+PhraseNum 0 StartClk 42240 EndClk 49920 Density 7 Layers ['drumsKit','rightPiano2','hiStrings','mel5','bass2','midStrings','rightPiano','notationLP','notationRP']
+PhraseNum 1 StartClk 49920 EndClk 57600 Density 7 Layers ['drumsKit','rightPiano2','hiStrings','mel5','bass2','midStrings','rightPiano','notationLP','notationRP']
+PhraseNum 2 StartClk 57600 EndClk 65280 Density 7 Layers ['drumsKit','rightPiano2','hiStrings','mel5','bass2','midStrings','rightPiano','notationLP','notationRP']
+SectionLayers ['drumsKit','rightPiano2','hiStrings','mel5','bass2','midStrings','rightPiano','notationLP','notationRP']
+SectionNum 2 NumPhrases 2 NumChords 3 tempo 115 tse 4/4 startMNum 35
+PhraseNum 0 StartClk 65280 EndClk 72960 Density 4 Layers ['drumsKit','rightPiano2','hiStrings','mel5','bass2','midStrings','rightPiano','notationLP','notationRP']
+PhraseNum 1 StartClk 72960 EndClk 80640 Density 3 Layers ['drumsKit','rightPiano2','hiStrings','mel5','bass2','midStrings','rightPiano','notationLP','notationRP']
+SectionLayers ['drumsKit','rightPiano2','hiStrings','mel5','bass2','midStrings','rightPiano','notationLP','notationRP']
+SectionNum 3 NumPhrases 2 NumChords 3 tempo 115 tse 4/4 startMNum 43
+PhraseNum 0 StartClk 80640 EndClk 88320 Density 4 Layers ['drumsKit','rightPiano2','hiStrings','mel5','bass2','midStrings','rightPiano','notationLP','notationRP']
+PhraseNum 1 StartClk 88320 EndClk 96000 Density 3 Layers ['drumsKit','rightPiano2','hiStrings','mel5','bass2','midStrings','rightPiano','notationLP','notationRP']
+SectionLayers ['drumsKit','rightPiano2','hiStrings','mel5','bass2','midStrings','rightPiano','notationLP','notationRP']
+

@@ -1,0 +1,20 @@
+Movement 0 type promo NumSections 4 Mood EDM
+SectionNum 0 NumPhrases 2 NumChords 4 tempo 130 tse 4/4 startMNum 1
+PhraseNum 0 StartClk 0 EndClk 7680 Density 6 Layers ['drumsKit','brassRhythms','leftPianoBass','mel5','bass3','drumsLatinPop','notationLP','notationRP']
+PhraseNum 1 StartClk 7680 EndClk 15360 Density 7 Layers ['drumsKit','brassRhythms','hiStrings','leftPianoBass','mel5','bass3','drumsLatinPop','notationLP','notationRP']
+SectionLayers ['drumsKit','brassRhythms','hiStrings','leftPianoBass','mel5','bass3','drumsLatinPop','notationLP','notationRP']
+SectionNum 1 NumPhrases 4 NumChords 4 tempo 130 tse 4/4 startMNum 9
+PhraseNum 0 StartClk 15360 EndClk 23040 Density 3 Layers ['drumsKit','brassRhythms','mel5','notationLP','notationRP']
+PhraseNum 1 StartClk 23040 EndClk 30720 Density 4 Layers ['drumsKit','bass1','brassRhythms','mel5','notationLP','notationRP']
+PhraseNum 2 StartClk 30720 EndClk 38400 Density 5 Layers ['drumsKit','mel5','leftPianoBass','brassRhythms','bass1','notationLP','notationRP']
+PhraseNum 3 StartClk 38400 EndClk 46080 Density 6 Layers ['drumsKit','brassRhythms','leftPianoBass','mel5','bass1','rightPiano','notationLP','notationRP']
+SectionLayers ['drumsKit','brassRhythms','leftPianoBass','mel5','bass1','rightPiano','notationLP','notationRP']
+SectionNum 2 NumPhrases 2 NumChords 4 tempo 130 tse 4/4 startMNum 25
+PhraseNum 0 StartClk 46080 EndClk 53760 Density 2 Layers ['drumsKit','rightPiano','notationLP','notationRP']
+PhraseNum 1 StartClk 53760 EndClk 61440 Density 4 Layers ['drumsKit','rightPiano','drumsLatinPop','brassRhythms','notationLP','notationRP']
+SectionLayers ['drumsKit','rightPiano','drumsLatinPop','brassRhythms','notationLP','notationRP']
+SectionNum 3 NumPhrases 2 NumChords 4 tempo 130 tse 4/4 startMNum 33
+PhraseNum 0 StartClk 61440 EndClk 69120 Density 7 Layers ['drumsKit','brassRhythms','hiStrings','leftPianoBass','bass1','rightPiano','drumsLatinPop','notationLP','notationRP']
+PhraseNum 1 StartClk 69120 EndClk 76800 Density 8 Layers ['drumsKit','brassRhythms','hiStrings','leftPianoBass','mel5','bass1','rightPiano','drumsLatinPop','notationLP','notationRP']
+SectionLayers ['drumsKit','brassRhythms','hiStrings','leftPianoBass','mel5','bass1','rightPiano','drumsLatinPop','notationLP','notationRP']
+

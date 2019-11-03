@@ -1,0 +1,17 @@
+Movement 0 type promo NumSections 4 Mood reggaepop
+SectionNum 0 NumPhrases 1 NumChords 4 tempo 65 tse 4/4 startMNum 1
+PhraseNum 0 StartClk 0 EndClk 7680 Density 4 Layers ['drumsKit','piano1','rightPiano','bass3','notationLP','notationRP']
+SectionLayers ['drumsKit','piano1','rightPiano','bass3','notationLP','notationRP']
+SectionNum 1 NumPhrases 3 NumChords 4 tempo 65 tse 4/4 startMNum 5
+PhraseNum 0 StartClk 7680 EndClk 15360 Density 6 Layers ['drumsKit','brassRhythms','mel5','bass3','rightPiano','drumsLatinPop','notationLP','notationRP']
+PhraseNum 1 StartClk 15360 EndClk 23040 Density 7 Layers ['drumsKit','brassRhythms','arpStrings','mel5','bass3','rightPiano','drumsLatinPop','notationLP','notationRP']
+PhraseNum 2 StartClk 23040 EndClk 30720 Density 7 Layers ['drumsKit','brassRhythms','mel5','drumsLatinPop','bass3','rightPiano','arpStrings','notationLP','notationRP']
+SectionLayers ['drumsKit','brassRhythms','arpStrings','mel5','bass3','rightPiano','drumsLatinPop','notationLP','notationRP']
+SectionNum 2 NumPhrases 1 NumChords 4 tempo 110 tse 4/4 startMNum 17
+PhraseNum 0 StartClk 30720 EndClk 38400 Density 7 Layers ['piano1','hiStrings','leftPianoBass','mel5','midStrings','arpStrings','rhythmChords','notationLP','notationRP']
+SectionLayers ['piano1','hiStrings','leftPianoBass','mel5','midStrings','arpStrings','rhythmChords','notationLP','notationRP']
+SectionNum 3 NumPhrases 2 NumChords 4 tempo 110 tse 4/4 startMNum 21
+PhraseNum 0 StartClk 38400 EndClk 46080 Density 7 Layers ['drumsKit','leftPianoBass','drumsLatinPop','bass3','midStrings','rightPiano','rhythmChords','notationLP','notationRP']
+PhraseNum 1 StartClk 46080 EndClk 53760 Density 9 Layers ['drumsKit','mel5','hiStrings','leftPianoBass','rhythmChords','bass3','midStrings','rightPiano','drumsLatinPop','notationLP','notationRP']
+SectionLayers ['drumsKit','mel5','hiStrings','leftPianoBass','rhythmChords','bass3','midStrings','rightPiano','drumsLatinPop','notationLP','notationRP']
+
