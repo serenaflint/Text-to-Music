@@ -14,14 +14,14 @@ Project for UB Hacking 2019
 <ul>
   <li>bee-before.mp3</li>
   <li>seals-before.mp3</li>
-  <li>scp-before.mp3<li>
+  <li>scp-before.mp3</li>
   <li>test-before.mp3</li>
 </ul>
 
-<b>Then, to listen to the results of the conversion <i>AFTER</i> being run through Watson, try:<b>
+<b>Then, to listen to the results of the conversion <i>AFTER</i> being run through Watson, try:</b>
 <ul>
   <li>bee.mp3</li>
   <li>seals.mp3</li>
-  <li>scp.mp3<li>
+  <li>scp.mp3</li>
   <li>test.mp3</li>
 </ul>
