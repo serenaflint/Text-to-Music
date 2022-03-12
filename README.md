@@ -1,6 +1,8 @@
 # Text-to-Music
 Project for UB Hacking 2019
 
+Takes a text file and randomly assigns notes to letters, creating 'music.' This is then processed through IBM Watson to make the music more stylized.
+
 **************************************************************************************************************************
 <b>Testing was done on several files, here are some of the selected examples. </b>
 
